@@ -13,5 +13,4 @@ spec:
     port: 5432
   selector:
     app: voting-app
-    name: db-pod
-
+    name: postgres-pod
